@@ -8,7 +8,7 @@ Traffic isolation and security are enforced at Layer 2 using Virtual Local Area 
 
 ## 📸 Network Topology Diagram
 
-![Network Topology](topology-screenshot.png)
+![Network Topology](topology.png)
 
 ---
 
